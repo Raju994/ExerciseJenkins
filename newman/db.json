@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "last_name": "RAJU",
+      "first_name": "UPPALA",
+      "subjectId": 1,
+      "id": 10
+    },
+    {
+      "last_name": "Malik",
+      "first_name": "Anuj",
+      "subjectId": 2,
+      "id": 16
+    },
+    {
+      "last_name": "Darga",
+      "first_name": "Rohena",
+      "subjectId": 2,
+      "id": 40
+    },
+    {
+      "last_name": "Ghosh",
+      "first_name": "Joydeep",
+      "subjectId": 2,
+      "id": 46
+    },
+    {
+      "last_name": "Jaishpur",
+      "first_name": "Jathin",
+      "subjectId": 2,
+      "id": 47
+    },
+    {
+      "last_name": "P",
+      "first_name": "Pavithra",
+      "subjectId": 2,
+      "id": 48
+    },
+    {
+      "last_name": "Jean",
+      "first_name": "Jeny",
+      "subjectId": 2,
+      "id": 49
+    },
+    {
+      "last_name": "Suriya",
+      "first_name": "Kalai",
+      "subjectId": 2,
+      "id": 50
+    },
+    {
+      "last_name": "P",
+      "first_name": "Preethieka",
+      "subjectId": 2,
+      "id": 52
+    },
+    {
+      "last_name": "Thota",
+      "first_name": "Nagamani Thota",
+      "subjectId": 2,
+      "id": 53
+    },
+    {
+      "last_name": "Kataria",
+      "first_name": "Aanchal",
+      "subjectId": 1,
+      "id": 54
+    },
+    {
+      "last_name": "Sinha",
+      "first_name": "Gayatri",
+      "subjectId": 1,
+      "id": 55
+    },
+    {
+      "last_name": "Monis",
+      "first_name": "Ivar",
+      "subjectId": 1,
+      "id": 56
+    },
+    {
+      "last_name": "Bhatt",
+      "first_name": "Shubham",
+      "subjectId": 1,
+      "id": 57
+    },
+    {
+      "last_name": "Singh",
+      "first_name": "Abha",
+      "subjectId": 2,
+      "id": 58
+    },
+    {
+      "last_name": "Sundar",
+      "first_name": "Aishwarya",
+      "subjectId": 2,
+      "id": 59
+    },
+    {
+      "last_name": "Yadav",
+      "first_name": "Ajeet",
+      "subjectId": 2,
+      "id": 60
+    },
+    {
+      "last_name": "Kumar C",
+      "first_name": "Balaji",
+      "subjectId": 3,
+      "id": 61
+    },
+    {
+      "last_name": "Bharti",
+      "first_name": "Nutun",
+      "subjectId": 2,
+      "id": 62
+    },
+    {
+      "last_name": "KumarUpdated___2",
+      "first_name": "Sanjeev1",
+      "subjectId": 1,
+      "id": 63
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 1
+    },
+    {
+      "name": "DevOps",
+      "id": 2
+    },
+    {
+      "name": "MachineLearning",
+      "id": 3
+    }
+  ]
+}
